@@ -11,4 +11,4 @@
 
 *[Markdown Guide](https://en.wikipedia.org/wiki/Religion)*
 
-Approved by Ryan Edwards
+Approved By Ryan Edwards
