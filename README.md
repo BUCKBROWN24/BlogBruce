@@ -9,4 +9,4 @@
 
 ![alt text](download.jpg)
 
-*[Markdown Guide](https://en.wikipedia.org/wiki/Religion)*
+*[Sources](https://en.wikipedia.org/wiki/Religion)*
